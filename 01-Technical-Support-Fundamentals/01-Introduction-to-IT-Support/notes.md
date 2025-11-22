@@ -1,8 +1,8 @@
-**Overview:**
+## **Overview:**
 
 This module covers an intro to how computers developed, how they represent data, and the basics of IT roles. It covers binary, character encoding, computer architecture, and core IT terminology.
 
-**Learning Objectives:**
+## **Learning Objectives:**
 
 - Understand the evolution of computing
 
@@ -14,7 +14,7 @@ This module covers an intro to how computers developed, how they represent data,
 
 - Understand what IT Support Specialists do
 
-**Key Concepts:**
+## **Key Concepts:**
 
 - Abstraction: Simplifying complex systems
 
@@ -50,7 +50,7 @@ This module covers an intro to how computers developed, how they represent data,
 
 - RGB model: Color model using red, green, blue
 
-**Notes:**
+## **Notes:**
 
 - Computing evolved from mechanical tools (abacus, punch cards) to electronic systems we use today
 
@@ -66,7 +66,7 @@ This module covers an intro to how computers developed, how they represent data,
 
 - UTF-8: Modern character encoding standard
 
-**Practise Exercises:**
+## **Practise Exercises:**
 
 - Convert a few numbers between binary and decimal
 
@@ -74,7 +74,7 @@ This module covers an intro to how computers developed, how they represent data,
 
 - Match character encoding types with examples (ASCII vs UTF-8)
 
-**COMPTIA A+ Exam Notes:**
+## **COMPTIA A+ Exam Notes:**
 
 - Be comfortable with binary conversions
 
