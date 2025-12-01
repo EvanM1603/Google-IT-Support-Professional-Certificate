@@ -66,7 +66,7 @@ This module covers an intro to how computers developed, how they represent data,
 
 - UTF-8: Modern character encoding standard
 
-# **Practise Exercises:**
+# **Practice Exercises:**
 
 - Convert a few numbers between binary and decimal
 
