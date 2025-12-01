@@ -1,6 +1,6 @@
 # **Overview:**
 
-This module covers the main hardware components inside a computer. It explains what each part does and how they work together. It also looks at how the CPU processes instructions and how data moves in binary throughout the system
+This module covers the main hardware components inside a computer. It explains what each part does and how they work together. It also looks at how the CPU processes instructions and how data moves in binary throughout the system.
 
 # **Learning Objectives:**
 
