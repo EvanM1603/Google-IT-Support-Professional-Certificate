@@ -16,39 +16,39 @@ This module covers an intro to how computers developed, how they represent data,
 
 # **Key Concepts:**
 
-- Abstraction: Simplifying complex systems
+- **Abstraction:** Simplifying complex systems
 
-- Algorithm: Steps to solve a problem
+- **Algorithm:** Steps to solve a problem
 
-- ASCII: Early text encoding standard
+- **ASCII:** Early text encoding standard
 
-- Binary system: Base-2 number system
+- **Binary system:** Base-2 number system
 
-- Byte: 8 bits
+- **Byte:** 8 bits
 
-- Character encoding: Mapping characters to binary
+- **Character encoding:** Mapping characters to binary
 
-- Computer: Device that stores and processes data
+- **Computer:** Device that stores and processes data
 
-- Cryptography: Protecting information using code
+- **Cryptography:** Protecting information using code
 
-- Decimal system: Base-10 system
+- **Decimal system:** Base-10 system
 
-- Digital divide: Gap in digital skills and access
+- **Digital divide:** Gap in digital skills and access
 
-- Information technology: Using computers to process information
+- **Information technology:** Using computers to process information
 
-- Linux OS: Open-source operating system
+- **Linux OS:** Open-source operating system
 
-- Logic gates: Basic building blocks of digital circuits
+- **Logic gates:** Basic building blocks of digital circuits
 
-- Open source: Software that can be modified and shared freely
+- **Open source:** Software that can be modified and shared freely
 
-- PDA: Early handheld computing device
+- **PDA:** Early handheld computing device
 
-- Punch cards: Old data input method
+- **Punch cards:** Old data input method
 
-- RGB model: Color model using red, green, blue
+- **RGB model:** Color model using red, green, blue
 
 # **Notes:**
 
