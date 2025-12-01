@@ -1,6 +1,6 @@
 # **Overview:**
 
-This module covers an intro to how computers developed, how they represent data, and the basics of IT roles. It covers binary, character encoding, computer architecture, and core IT terminology
+This module covers an intro to how computers developed, how they represent data, and the basics of IT roles. It covers binary, character encoding, computer architecture, and core IT terminology.
 
 # **Learning Objectives:**
 
