@@ -1,6 +1,6 @@
 # **Overview:**
 
-This module covers the main hardware components inside a computer. It explains what each part does and how they work together. It also looks at how the CPU processes instructions and how data moves in binary throughout the system.
+This module covers the main hardware components inside a computer. It explains what each part does and how they work together. It also looks at how the CPU processes instructions and how data moves in binary throughout the system
 
 # **Learning Objectives:**
 
@@ -104,7 +104,7 @@ This module covers the main hardware components inside a computer. It explains w
 
 # **Notes:**
 
-- Computers are built from hardware components that each have specific roles.  
+- Computers are built from hardware components that each have specific roles  
 
 - The CPU executes instructions stored in memory and interacts with other components via the motherboard
 
