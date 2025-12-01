@@ -1,4 +1,4 @@
-# **Computer Components & Hardware:**
+# **Overview:**
 
 In the second module of this course, we'll learn about what's inside a computer. We'll explore the main hardware components, what each component does, and how they work together to make a computer function. By the end of this module, you will also understand how the CPU processes instructions and how binary data moves through a computer.  
 
