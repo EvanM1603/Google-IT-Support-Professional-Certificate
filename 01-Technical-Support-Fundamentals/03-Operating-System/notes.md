@@ -12,7 +12,7 @@ This module introduces how operating systems function, what their main component
 
 - Create a file using the Windows and Linux operating systems
 
-# **Key Concepts**
+# **Key Concepts:**
 
 - **Android:** A mobile OS built on top of the Linux kernel
 
