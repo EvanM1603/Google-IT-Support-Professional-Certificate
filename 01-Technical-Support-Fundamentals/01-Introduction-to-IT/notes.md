@@ -14,7 +14,7 @@ This module covers an intro to how computers developed, how they represent data,
 
 - Understand what IT Support Specialists do
 
-# **Key Concepts**
+# **Key Concepts:**
 
 - **Abstraction:** Simplifying complex systems
 
