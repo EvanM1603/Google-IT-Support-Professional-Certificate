@@ -41,7 +41,7 @@ These notes reflect my personal learning journey through the Technical Support F
 - Practiced documenting key information in a professional and structured way
 - Built foundational skills applicable to IT support roles
 
-By reviewing and creating these notes, I strengthened my technical understanding while also improving my ability to communicate IT concepts effectively—skills that are directly transferable to workplace environments.
+By reviewing and creating these notes, I strengthened my technical understanding while also improving my ability to communicate IT concepts effectively, these are skills that are directly transferable to workplace environments.
 
 ---
 
