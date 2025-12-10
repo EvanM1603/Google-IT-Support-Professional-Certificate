@@ -10,7 +10,7 @@ This module covers computer networking. It explores the history of the Internet 
 
 - Understand the basics of how data travels across the Internet
 
-# **Key Concepts**
+# **Key Concepts:**
 
 - **ARPANET:** Early research network created by DARPA in the 1960s that led to the modern Internet
 
