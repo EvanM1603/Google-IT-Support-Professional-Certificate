@@ -10,7 +10,7 @@ This module covers troubleshooting and customer support. Learners examine real-w
 
 - Understand why documentation is an important aspect of an IT role
 
-# **Key Concepts**
+# **Key Concepts:**
 
 - **404 Not Found:** An error message indicating a web page has been moved or deleted
 
