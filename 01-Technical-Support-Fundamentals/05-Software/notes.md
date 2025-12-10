@@ -12,7 +12,7 @@ This module covers computer software. It explores what software is, the differen
 
 - Describe how a program breaks down into instructions for the CPU
 
-# **Key Concepts**
+# **Key Concepts:**
 
 - **Application software:** Any software created to fulfill a specific need, like a text editor, web browser, or graphics editor
 
