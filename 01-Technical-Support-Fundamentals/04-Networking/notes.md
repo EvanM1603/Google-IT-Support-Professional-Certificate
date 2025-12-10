@@ -90,4 +90,24 @@ This module covers computer networking. It explores the history of the Internet 
 
 - Wired connections (Ethernet, fiber) and wireless (Wi-Fi) are the primary ways devices connect to networks
 
+# **Practice Exercises:**
+
+- Describe the difference between the Internet and the World Wide Web
+
+- Identify common networking devices and explain their roles
+
+- Explain how DNS converts a website name into an IP address
+
+- Trace the journey of a data packet from a client to a server
+
+# **COMPTIA A+ Exam Notes:**
+
+- Know the function of routers, switches, hubs, and their differences
+
+- Understand IPv4 and IPv6 address structures
+
+- Be familiar with common networking cables, wireless technologies, and basic troubleshooting steps
+
+- Understand the role of DNS, IP addressing, and NAT in everyday networking
+
 - Logging on servers helps track reques
